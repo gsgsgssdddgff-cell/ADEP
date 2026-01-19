@@ -1,0 +1,22 @@
+{
+  "name": "Adept Cinema",
+  "short_name": "Adept",
+  "start_url": "./index.php",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#e50914",
+  "scope": "./",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2503/2503508.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2503/2503508.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
